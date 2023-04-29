@@ -1,0 +1,97 @@
+
+html,
+body {
+  position: relative;
+}
+
+body {
+  background: #eee;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #000;
+  margin: 0;
+  padding: 0;
+}
+
+
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+
+  /* Center slide text vertically */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  display: block;
+  object-fit: cover;
+}
+
+#cntral_imgsize{
+  width: 100%;
+  height: max-content;
+
+}
+#cntrl_button{
+  width: 100%;
+  background-size: cover;
+  height: 50rem ;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.36), rgba(0, 0, 0, 0.251) ), url(../../public/Images/bk1\ \(1\).jpg);
+}
+#cntrl_button_hei{
+height: 5rem;
+}
+#btn{
+  background-color: rgba(127, 255, 212, 0.74);
+  height: 3rem;
+  border: none;
+  border-radius: 20px;
+}
+#cntrl_button2{
+  width: 100%;
+  background-size: cover;
+  height: 50rem ;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.36), rgba(0, 0, 0, 0.251) ),url(../../public/Images/bk1\ \(2\).jpg);
+}#cntrl_button3{
+  width: 100%;
+  background-size: cover;
+  height: 50rem ;
+  background-image:linear-gradient(rgba(0, 0, 0, 0.36), rgba(0, 0, 0, 0.251) ), url(../../public/Images/bk1\ \(3\).jpg);
+}#cntrl_button4{
+  width: 100%;
+  background-size: cover;
+  height: 50rem ;
+  background-image:linear-gradient(rgba(0, 0, 0, 0.36), rgba(0, 0, 0, 0.251) ), url(../../public/Images/bk1\ \(4\).jpg);
+}
+#btn:hover{
+  background-color: rgb(10, 206, 59);
+}
+#alighn_p_tag{
+  text-align: start;
+  font-family: 'Marcellus', serif;
+font-size: 60px;
+font-weight: 600;
+text-shadow: 2px 2px 0px rgba(244, 231, 231, 0.784);
+}
+#cntrl_button_hei2{
+  height: 10rem;
+}
+#alighn_p_tag1{
+  text-align: end;
+  font-family: 'Marcellus', serif;
+font-size: 60px;
+font-weight: 600;
+text-shadow: 2px 2px 0px rgba(244, 231, 231, 0.784);
+}
+#alighn_p_tag3{
+  text-align: start;
+  font-family: 'Marcellus', serif;
+font-size: 60px;
+font-weight: 600;
+text-shadow: 2px 2px 0px rgb(36, 30, 30);
+color: white;
+}

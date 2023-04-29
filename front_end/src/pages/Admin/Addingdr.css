@@ -1,0 +1,12 @@
+#dropdownMenuLink{
+    width: 100%;
+    background-color: white;
+    color: black;
+    text-align: start;
+}
+#adding_back2{
+    background-image: url(../../../public/Images/back.jpg);
+    height: 60rem;
+    width: 100%;
+    background-size: cover;
+}

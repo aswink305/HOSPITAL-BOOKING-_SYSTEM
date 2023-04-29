@@ -1,0 +1,43 @@
+#Token_book_img{
+    width: 200px;
+    border-radius: 50%;
+    height: 12rem;
+    }
+    #Token_book_img_alighn1{
+        display: flex;
+        justify-content: center;
+
+    }
+    #Token_book_Token_part{
+        width: 70%;
+        height: 30rem;
+        background-image: linear-gradient(to right, rgba(21, 0, 255, 0.249) , rgba(212, 0, 255, 0.232));
+    }
+    #Token_booking_token_styling{
+        height: 4rem;
+
+        text-align: center;
+        border-bottom-left-radius: 30px;
+        border-top-right-radius: 30px;
+        border: 1.5px solid rgb(0, 0, 0);
+
+
+    }
+    #time_text{
+        font-size: 19px;
+    }
+    #name_text{
+        font-size: 30px;
+        font-family: 'PT Serif', serif;
+
+    }
+    #names_text{
+        font-size: 20px;
+        font-family: 'Bai Jamjuree', sans-serif;
+    }
+    #time_text2{
+        color: rgb(26, 209, 53);
+    }
+    #time_text3{
+        color: rgb(224, 6, 6);
+    }

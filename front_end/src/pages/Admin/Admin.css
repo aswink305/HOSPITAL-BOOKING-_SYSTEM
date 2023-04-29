@@ -1,0 +1,30 @@
+#admin_alighn{
+    display: flex;
+    justify-content: center;
+}
+#spcr5{
+    height: 23rem;
+}
+#admin_btn{
+    border: none;
+    border-radius: 20px;
+    background-image: linear-gradient(to right, rgb(14, 11, 53) , rgb(0, 255, 242));
+    width: 150px;
+    height: 40px;
+    color: white;
+}
+#admin_btn2{
+    border: none;
+    border-radius: 20px;
+    background-image: linear-gradient(to right, rgb(17, 0, 255) , rgb(0, 255, 242));
+    width: 150px;
+    height: 40px;
+}
+#admin_btn2:hover{
+    background-image: linear-gradient(to right, rgb(255, 0, 179) , rgb(0, 255, 242));
+
+}
+#admin_btn:hover{
+    background-image: linear-gradient(to right, rgb(255, 0, 179) , rgb(0, 255, 242));
+
+}

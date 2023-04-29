@@ -1,0 +1,22 @@
+.text-black{
+  width: 50%;
+}#reg_flex_align{
+  display: flex;
+  justify-content: center;
+}
+.registration_container{
+  height: 100%;
+}
+#registration_back{
+  background-image: url(../../public/Images/logreg.jpg);
+  height: 60rem;
+  width: 100%;
+  background-size: cover;
+}
+.text-black{
+  background-color: transparent;
+  color: aliceblue;
+}
+.body{
+  color: aliceblue;
+}
